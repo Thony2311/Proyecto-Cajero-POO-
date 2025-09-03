@@ -1,0 +1,3 @@
+echo *.o > .gitignore
+echo *.exe >> .gitignore
+echo *.layout >> .gitignore
