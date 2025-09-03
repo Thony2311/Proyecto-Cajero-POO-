@@ -1,14 +1,11 @@
 /*
 =====================================================
 			UNIVERSIDAD DEL VALLE - SEDE PALMIRA
-			TECNOLOGÌA EN DESARROLO DE SOFTWARE
+			TECNOLOGIA EN DESARROLO DE SOFTWARE
 			
 				TALLER FINAL
 			
-	Grupo 21
 		Anthony Alzate Muriel 2355949-2724
-		Sara Sinisterra Villota 2355303-2724
-		Cristian Franco Lopez 2355565-2724
 ========================================================	
 */
 
